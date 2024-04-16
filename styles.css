@@ -1,0 +1,10 @@
+.row {
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid black;
+}
+.gridItem {
+    border: 2px solid purple;
+    flex: 1;
+    height: 50px;
+}
